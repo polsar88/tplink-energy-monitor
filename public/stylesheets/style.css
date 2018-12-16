@@ -4,10 +4,14 @@ footer ul {
 
 .page-header {
   margin: 10px 0 20px;
+  border-color: black;
 }
 
 .x_panel {
-  height: 350px;
+  height: 352px;
+  background-color: #003366;
+  border-color: black;
+  color:lightblue;
 }
 
 .x_panel.small {
@@ -37,7 +41,7 @@ footer ul {
   font-weight: bold;
 }
 
-.nav_title { 
+.nav_title {
   width: 170px;
 }
 
@@ -47,6 +51,7 @@ footer ul {
 
 .nav-md .container.body .right_col {
   margin-left: 170px;
+  background-color: black;
 }
 
 @media (min-width: 992px) {
